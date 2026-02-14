@@ -1,2 +1,3 @@
 # CodeRepo
-Code Repository for various projects
+Compiled code repo for various projects and experiments
+
